@@ -613,3 +613,22 @@ entries:
         - product-viz
       platform:
         - web
+  - name: CADProps STEP Models
+    url: https://github.com/cadprobs-a11y/cadprops-step-models
+    added_at: '2026-10-08T10:46:44.000Z'
+    description: Free sample CAD parts in STEP, STL, and IGES with previews, inspection guides, and per-model license notes.
+    license: Mixed
+    entry_type: asset-source
+    tags:
+      output:
+        - product-viz
+      platform:
+        - web
+      workflow:
+        - modeling
+      tech:
+        - cc0
+    readme_tags:
+      - CAD
+      - STEP/STL
+    best_for: Engineering CAD sample files and geometry inspection
